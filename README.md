@@ -722,13 +722,6 @@ Para dúvidas ou problemas:
 - 💬 Verifique o seção [Troubleshooting](#troubleshooting)
 - 📖 Consulte a [API Documentation](#-api-documentation)
 
----
-
-## 🙏 Agradecimentos
-
-- Google Fonts por Poppins
-- Express.js e React comunidades
-- MySQL para database confiável
 
 ---
 
